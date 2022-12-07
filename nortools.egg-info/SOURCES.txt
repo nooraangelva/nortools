@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+nortools/__init__.py
+nortools/images_to_nii.py
+nortools/visual_fns.py
+nortools.egg-info/PKG-INFO
+nortools.egg-info/SOURCES.txt
+nortools.egg-info/dependency_links.txt
+nortools.egg-info/not-zip-safe
+nortools.egg-info/top_level.txt
